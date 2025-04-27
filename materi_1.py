@@ -15,3 +15,5 @@ data_dictionary = {
     'Minuman Favorit': 'Kopi'
 }
 print(data_dictionary)
+
+print("hello world")
